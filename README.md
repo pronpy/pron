@@ -18,7 +18,7 @@ Open `http://localhost:4173`.
 
 ## Language Stack
 
-Explore the full stack in [LANGUAGES.md](LANGUAGES.md). Examples live in [`examples/`](examples/), including HTML, CSS, JavaScript, TypeScript, Python, Java, C, C++, C#, PHP, Ruby, Swift, Kotlin, Go, Rust, Dart, SQL, Shell, React Native, Flutter, and more.
+Explore the full stack in [LANGUAGES.md](LANGUAGES.md). Examples live in [`stack/`](stack/), including HTML, CSS, JavaScript, TypeScript, Python, Java, C, C++, C#, PHP, Ruby, Swift, Kotlin, Go, Rust, Dart, SQL, Shell, React Native, Flutter, and more.
 
 ## Community
 
@@ -32,3 +32,4 @@ Discussions are open for ideas, questions, updates, and project coordination.
 
 - `Auto Assign` assigns new issues and pull requests.
 - `Proof HTML` validates the static HTML on push.
+
