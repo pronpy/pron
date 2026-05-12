@@ -1,7 +1,7 @@
 {
-  "name": "demo-repo",
+  "name": "pron",
   "version": "0.2.0",
-  "description": "A sample package.json",
+  "description": "Modern starter repository for Pronpy workflows, docs, automation, and HTML validation.",
   "dependencies": {
     "@primer/css": "17.0.1"
   },

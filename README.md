@@ -1,11 +1,11 @@
-# Pronpy Demo Repository
+# Pron
 
-[![Auto Assign](https://github.com/pronpy/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/pronpy/demo-repository/actions/workflows/auto-assign.yml)
-[![Proof HTML](https://github.com/pronpy/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/pronpy/demo-repository/actions/workflows/proof-html.yml)
+[![Auto Assign](https://github.com/pronpy/pron/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/pronpy/pron/actions/workflows/auto-assign.yml)
+[![Proof HTML](https://github.com/pronpy/pron/actions/workflows/proof-html.yml/badge.svg)](https://github.com/pronpy/pron/actions/workflows/proof-html.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f.svg)](./package.json)
 [![Organization](https://img.shields.io/badge/org-pronpy-181717?logo=github)](https://github.com/pronpy)
 
-Modern starter repository for the Pronpy organization. It keeps the first public project intentionally small while showing the core workflow every Pronpy repo should follow: clean docs, automated checks, issue assignment, and a simple static entrypoint.
+Pron is a modern starter repository for the Pronpy organization. It keeps the first public project intentionally small while showing the core workflow every Pronpy repo should follow: clean docs, automated checks, issue assignment, and a simple static entrypoint.
 
 ## What This Repository Shows
 
@@ -34,8 +34,8 @@ Modern starter repository for the Pronpy organization. It keeps the first public
 Clone the repository:
 
 ```bash
-git clone https://github.com/pronpy/demo-repository.git
-cd demo-repository
+git clone https://github.com/pronpy/pron.git
+cd pron
 ```
 
 Install dependencies when you want to work with the package metadata locally:
