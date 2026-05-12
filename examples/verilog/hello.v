@@ -1,0 +1,3 @@
+module hello;
+  initial $display("Hello from Verilog");
+endmodule

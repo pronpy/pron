@@ -1,0 +1,1 @@
+s/.*/Hello from Sed/

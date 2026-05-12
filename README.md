@@ -4,7 +4,7 @@
 [![Proof HTML](https://github.com/pronpy/pron/actions/workflows/proof-html.yml/badge.svg)](https://github.com/pronpy/pron/actions/workflows/proof-html.yml)
 [![Organization](https://img.shields.io/badge/org-pronpy-181717?logo=github)](https://github.com/pronpy)
 
-Pron is a small public starter repository for the Pronpy organization. It shows the basic workflow for clean docs, GitHub Actions, issue assignment, and a simple HTML entrypoint.
+Pron is the main Pronpy language-stack repository. It keeps one small starter example for each language and framework the organization wants to support.
 
 ## Start
 
@@ -15,6 +15,10 @@ python -m http.server 4173
 ```
 
 Open `http://localhost:4173`.
+
+## Language Stack
+
+Explore the full stack in [LANGUAGES.md](LANGUAGES.md). Examples live in [`examples/`](examples/), including HTML, CSS, JavaScript, TypeScript, Python, Java, C, C++, C#, PHP, Ruby, Swift, Kotlin, Go, Rust, Dart, SQL, Shell, React Native, Flutter, and more.
 
 ## Community
 
